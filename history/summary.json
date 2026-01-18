@@ -22,7 +22,7 @@
     "url": "https://cal.danielconstantin.net",
     "icon": "https://icons.duckduckgo.com/ip3/cal.danielconstantin.net.ico",
     "slug": "cal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 1351,
     "timeYear": 1351,
     "dailyMinutesDown": {
+      "2026-01-18": 0,
       "2026-01-01": 48
     }
   }
