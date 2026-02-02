@@ -23,5 +23,9 @@ status-website:
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  # Run uptime checks half as frequently (every 10 minutes instead of every 5)
+  uptime: "*/10 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
