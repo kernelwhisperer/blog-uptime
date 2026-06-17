@@ -22,23 +22,24 @@
     "url": "https://cal.danielconstantin.net",
     "icon": "https://icons.duckduckgo.com/ip3/cal.danielconstantin.net.ico",
     "slug": "cal",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.85%",
-    "time": 2763,
-    "timeDay": 3680,
-    "timeWeek": 3943,
-    "timeMonth": 4089,
-    "timeYear": 2763,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.84%",
+    "time": 2765,
+    "timeDay": 3389,
+    "timeWeek": 3837,
+    "timeMonth": 4059,
+    "timeYear": 2765,
     "dailyMinutesDown": {
       "2026-01-01": 48,
       "2026-03-05": 44,
       "2026-03-23": 72,
       "2026-04-30": 106,
-      "2026-06-06": 83
+      "2026-06-06": 83,
+      "2026-06-17": 44
     }
   }
 ]
